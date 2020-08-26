@@ -4,6 +4,7 @@ A tool to generate test code coverage information for Swift.
 
 [![Circle CI](https://circleci.com/gh/realm/SwiftCov/tree/master.svg?style=svg)](https://circleci.com/gh/realm/SwiftCov/tree/master)
 [![Coverage Status](https://coveralls.io/repos/realm/SwiftCov/badge.svg)](https://coveralls.io/r/realm/SwiftCov)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2FSwiftCov.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2FSwiftCov?ref=badge_shield)
 
 ## Installation
 
@@ -158,3 +159,6 @@ SwiftCov traces the execution of your test code using LLDB by following these st
 ## License
 
 MIT licensed.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2FSwiftCov.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2FSwiftCov?ref=badge_large)
